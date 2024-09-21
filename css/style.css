@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+}
+/*images start*/
+.images{
+	padding: 30px 0;
+}
+.container{
+	overflow: hidden;
+	margin: 0 auto;
+	width: 1400px;
+	border: 2px solid white;
+}
+.img_item{
+	box-sizing: border-box;
+	float: left;
+	width: 33%;
+}
+.img_item img{
+	width: 100%;
+}
+/*images end*/
+/* footer */
+.footer {
+    font-family: sans-serif;
+    font-size: 15px;
+	margin: 0.5%;
+	/*border: 1px solid rgb(0, 255, 0);*/
+    background-color: #ffffff;
+}
+.footer p {
+    padding: 15px 25px 2px;
+    text-align: center;
+    color: #000000;
+}
