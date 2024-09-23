@@ -1,3 +1,3 @@
 # Layout-media-query
 
-Preview : https://aimaksim.github.io/media_query/
+Preview : https://aimaksim.github.io/Layout-media-query/
